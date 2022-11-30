@@ -1,0 +1,8 @@
+.close {
+    color: #F00;
+    font-size: 24px;
+}
+
+.row {
+    display: flex;
+}
